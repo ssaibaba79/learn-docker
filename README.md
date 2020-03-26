@@ -7,7 +7,7 @@
     - Code Editor ( Sublime, VSCode)
     - Powershell or cmder (https://cmder.net/)
  - Linux
-    - Docker Community Edition from get.docker.com
+    - Docker Community Edition from https://get.docker.com/
     - Code Editor ( Sublime, VSCode)
     - bash
     
