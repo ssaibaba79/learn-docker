@@ -1,5 +1,6 @@
 # Docker 101
 
+## Basic Commands
 Pull the latest tag of an image from default docker repo (hub.docker.com)
 ```
 docker pull nginx 
@@ -93,3 +94,9 @@ Remove all unused images ( -f force)
 docker image prune -f
 ```
 
+## Sample scripts
+
+| OS          | Sample scripts      |
+| ----------- | ----------- |
+| Windows     | [docker-101,bat](docker-101.bat)       |
+| Linux       | [docker-101,sh](docker-101.sh )        |
