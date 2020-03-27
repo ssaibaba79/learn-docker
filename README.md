@@ -1,7 +1,7 @@
 # learn-docker
  Docker 101 - Learning materials and working samples
  
- Requirements:
+ ## Pre-requisites/Setup:
  - Windows Pro/Enterprise :
     - Docker Deskop for Windows Community(https://hub.docker.com/editions/community/docker-ce-desktop-windows)
     - Code Editor ( Sublime, VSCode)
