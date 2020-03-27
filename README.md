@@ -3,12 +3,12 @@
  
  ## Pre-requisites/Setup:
  - Windows Pro/Enterprise :
-    - Docker Deskop for Windows Community(https://hub.docker.com/editions/community/docker-ce-desktop-windows)
+    - Install Docker Deskop for Windows Pro/Ent - [Community Edition](https://hub.docker.com/editions/community/docker-ce-desktop-windows)
     - Code Editor ( Sublime, VSCode)
-    - Powershell or cmder (https://cmder.net/)
+    - Powershell or [cmder](https://cmder.net/)
  - Linux
-    - Docker Community Edition from https://get.docker.com/
-    - Code Editor ( Sublime, VSCode)
+    - Install Docker for Linxu [Community Edition](https://get.docker.com/)
+    - Code Editor (Sublime, VSCode)
     - bash
     
 Click [here](docker-101.md) to get started
