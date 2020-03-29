@@ -6,10 +6,12 @@
     - Install Docker Deskop for Windows Pro/Ent - [Community Edition](https://hub.docker.com/editions/community/docker-ce-desktop-windows)
     - Code Editor ( Sublime, VSCode)
     - Powershell or [cmder](https://cmder.net/)
+    - Git/Github
  - Linux
-    - Install Docker for Linxu [Community Edition](https://get.docker.com/)
+    - Install Docker for Linux [Community Edition](https://get.docker.com/)
     - Code Editor (Sublime, VSCode)
     - bash
+    - Git/Github
     
 Click [here](docker-101.md) to get started
 
